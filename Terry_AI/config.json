@@ -1,0 +1,23 @@
+{
+  "llama3": {
+    "model": "llama3",
+    "parameters": {
+      "temperature": 0.8,
+      "top_p": 0.9,
+      "frequency_penalty": 0.6,
+      "presence_penalty": 0.6
+    },
+    "system_message": "영어로 아이덴티티를 넣어주세요"
+  },
+  "eleven_labs": {
+    "api_key": "",
+    "voice_id": "",
+    "model_id": "etc)..eleven_multilingual_v2",
+    "voice_settings": {
+      "stability": 1.0,
+      "similarity_boost": 0.75,
+      "style": 0.2,
+      "use_speaker_boost": true
+    }
+  }
+}
